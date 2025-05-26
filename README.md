@@ -12,7 +12,6 @@ A modern Android app that allows users to search and read multilingual news arti
 - 📤 Share news link via apps.
 - 🖼 Clean and minimal Jetpack Compose UI.
 - 🔁 Real-time news updates using NewsData.io API.
-- 💡 Light and Dark Mode support (via Material3).
 - ⏱ Shows publication time and news source.
 - 🧠 Summary toggle per article view.
 

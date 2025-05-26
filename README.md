@@ -33,7 +33,7 @@ An advanced Android app that fetches real-time news from multiple languages, sum
 
 | Language Picker | Search | Share | Summary Toggle | Main UI |
 |------------------|--------|-------|----------------|---------|
-| ![](screenshots/languages.jpeg) | ![](screenshots/search.jpeg) | ![](screenshots/Share.jpeg) | ![](screenshots/ShowSummary.jpeg) | ![](screenshots/main.jpeg) |
+| ![](Screenshots/languages.jpeg) | ![](Screenshots/search.jpeg) | ![](Screenshots/Share.jpeg) | ![](Screenshots/ShowSummary.jpeg) | ![](Screenshots/main.jpeg) |
 
 ---
 

@@ -7,7 +7,6 @@ An advanced Android app that fetches real-time news from multiple languages, sum
 ## ✨ Features
 
 - 🌍 **Multilingual News** – Supports 10+ languages including English, Hindi, Telugu, French, German, Arabic, Japanese, and more.
-- 🌓 **Light/Dark Theme Toggle**
 - 📰 **Source Name and Publish Time** – Displayed for every article.
 - 🧠 **Summary Toggle** – Show or hide AI-summarized content under each article.
 - 🔗 **Open in Browser** – Tap any article to view in the browser.
